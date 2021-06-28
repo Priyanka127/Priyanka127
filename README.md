@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Priyanka127
-- 👀 I’m interested in eccomerce 
+- 👀 I’m interested in data science  
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on anything really 
 - 📫 How to reach me email me: priyaruby.suresh@gmail.com
